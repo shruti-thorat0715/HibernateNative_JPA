@@ -113,6 +113,7 @@ Ensure the following dependencies are in your `pom.xml`:
     
 </dependencies>
 
+```
 ----
 
 ## 3.⚙️ Configure persistence.xml:
