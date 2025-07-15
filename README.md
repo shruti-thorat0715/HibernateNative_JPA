@@ -118,6 +118,8 @@ Ensure the following dependencies are in your `pom.xml`:
 
 ## 3.⚙️ Configure persistence.xml:
 
+```
+
 <persistence-unit name="myPersistenceUnit">
 
     <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
@@ -146,6 +148,8 @@ Ensure the following dependencies are in your `pom.xml`:
     
 </persistence-unit>
 
+```
+
 ----
 
 ## 💡 Features:
@@ -173,6 +177,18 @@ Your Name : shruti thorat
 Email: shrutithorat767@gmail.com
 
 GitHub: shruti-thorat0715
+
+## 5.📷ScreenShot Of OutPut:
+
+<img width="1366" height="768" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/f15a9399-b13d-44a3-bc51-c3b36cf812d2" />
+
+<img width="1366" height="768" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/10036191-231b-4f59-989e-f97f9f016404" />
+
+---
+
+## 🎯 A simple yet powerful project to bridge the gap between core Java and real-world database applications using Hibernate JPA 😊.
+
+
 
 
 
